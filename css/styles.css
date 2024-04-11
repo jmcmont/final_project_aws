@@ -1,0 +1,18 @@
+#store-icon{
+    width: 50px;
+    height: 50px;
+}
+
+.navbar-collapse a{
+    color: rgb(110, 223, 246);
+    font-size: 20px;
+}
+
+#data{
+    display: none;
+}
+
+#spinner{
+    z-index: 2000;
+}
+
